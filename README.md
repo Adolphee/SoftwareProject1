@@ -1,5 +1,5 @@
 # Software Project 1
-First software project assignment I did when I started in an IT school. Language: C++
+First software project assignment I did in my life. Language: C++
 This is the readme.txt file as I made it for the teacher back then.
 
 
