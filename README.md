@@ -34,23 +34,23 @@ Bij het aanmelden wordt het totale aantal ingelogde spelers afgebeeld op het sch
 
 LOGIN:
 
-Username:     Passwoord:    Premium:
-Chiara    	  testC		      Ja
-Olivier   	  testO		      Nee
-Evelien  	    testE		      Ja
-Bernie   	    testB		      Nee
-Adolphe  	    testA		      Ja
-Felix    	    testF		      Ja
-Felicia		    testF		      Nee
-Rebecca             testR		      Nee
-Johnny 		    testJ		      Nee
-Donnie		    testD		      Nee
-Doncho		    testD		      Nee
-Johan		      testJ		      Nee
-Jolien		    testJ		      Nee
-JuanDissimo	  testJ		      Nee
-Laeticia	    testL		      Nee
-Yasmine		    testY		      Nee
+Username:___________Passwoord:____________Premium:<br>
+Chiara______________testC_________________Ja<br>
+Olivier_____________testO_________________Nee<br>
+Evelien_____________testE_________________Ja<br>
+Bernie _____________testB_________________Nee<br>
+Adolphe_____________testA_________________Ja<br>
+Felix  _____________testF_________________Ja<br>
+Felicia_____________testF_________________Nee<br>
+Rebecca_____________testR_________________Nee<br>
+Johnny______________testJ_________________Nee<br>
+Donnie______________testD_________________Nee<br>
+Doncho______________testD_________________Nee<br>
+Johan_______________testJ_________________Nee<br>
+Jolien______________testJ_________________Nee<br>
+JuanDissimo_________testJ_________________Nee<br>
+Laeticia____________testL_________________Nee<br>
+Yasmine	____________testY_________________Nee<br>
 
 Wachtwoord Resetten: 
 Username invullen en wachtwoord open laten.
