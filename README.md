@@ -42,7 +42,7 @@ Bernie   	    testB		      Nee
 Adolphe  	    testA		      Ja
 Felix    	    testF		      Ja
 Felicia		    testF		      Nee
-Rebecca       testR		      Nee
+Rebecca             testR		      Nee
 Johnny 		    testJ		      Nee
 Donnie		    testD		      Nee
 Doncho		    testD		      Nee
