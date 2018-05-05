@@ -1,0 +1,178 @@
+﻿  WishlistDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Wishlist.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  UsersDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Users.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\usersdao.h(30): error C2061: syntax error: identifier 'Users'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\usersdao.h(34): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\usersdao.h(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\usersdao.h(34): error C2238: unexpected token(s) preceding ';'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\usersdao.h(37): error C2061: syntax error: identifier 'Users'
+  stdafx.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\stdafx.cpp(50): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Source.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  ProfilesDAO.cpp
+  Profiles.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  MessagesDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Messages.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(8): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(13): error C2065: 'Messages': undeclared identifier
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(13): error C2059: syntax error: '>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(13): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(682): note: see declaration of 'std::vector'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(14): error C2065: 'Messages': undeclared identifier
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(14): error C2059: syntax error: '>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(14): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(682): note: see declaration of 'std::vector'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(16): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\messagesdao.h(16): error C2238: unexpected token(s) preceding ';'
+  InterestsDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\interestsdao.cpp(251): warning C4800: 'Interests *': forcing value to bool 'true' or 'false' (performance warning)
+  Interests.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\interestsdao.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\interestsdao.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\interestsdao.h(15): error C2238: unexpected token(s) preceding ';'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\interestsdao.h(17): error C2061: syntax error: identifier 'Interests'
+  HobbiesDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Hobbies.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(13): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(13): error C2238: unexpected token(s) preceding ';'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(14): error C2059: syntax error: '>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(14): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(682): note: see declaration of 'std::vector'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(17): error C2086: 'int HobbiesDAO::Hobbies': redefinition
+  c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(13): note: see declaration of 'HobbiesDAO::Hobbies'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\hobbiesdao.h(17): error C2238: unexpected token(s) preceding ';'
+  ExtrasDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Extras.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(11): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(15): error C2086: 'int ExtrasDAO::Extras': redefinition
+  c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(11): note: see declaration of 'ExtrasDAO::Extras'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(15): error C2238: unexpected token(s) preceding ';'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(17): error C2086: 'int ExtrasDAO::Extras': redefinition
+  c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(11): note: see declaration of 'ExtrasDAO::Extras'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\extrasdao.h(17): error C2238: unexpected token(s) preceding ';'
+  DatabaseSingleton.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  AdresDAO.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Adres.cpp
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\sqlstring.h(40): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(61): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\adolphe\documents\visual studio 2015\projects\project1\project1\include\cppconn\exception.h(145): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2628): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
