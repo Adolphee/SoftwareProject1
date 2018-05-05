@@ -1,6 +1,6 @@
 # Software Project 1
-First software project assignment I did in my life. Language: C++
-This is the readme.txt file as I made it for the teacher back then.
+First software project assignment I did in my life (2015). Language: C++
+This is the readme.txt file as I made it for the teacher back then. The Program probably doesn't work anymore because the database behind it has probably been cleaned by now.
 
 
 Beste,
